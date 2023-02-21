@@ -1,7 +1,7 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 ul,li {
@@ -15,16 +15,16 @@ ul,li {
     --grey-color: #787878;
 }
 .header{
-  background: #272727;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+    background: #272727;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .header__title{
     color: aliceblue;
-   font-size: 2rem;
- }
+    font-size: 2rem;
+}
 
 .container {
     margin: 0 auto;
