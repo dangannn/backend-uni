@@ -20,7 +20,7 @@
                     <span class='visually-hidden'>get headers</span>
                     <textarea name='headers' id='headers' cols='50' rows='8'>
                       <?php
-                      $url = 'http://httpbin.org/post';
+                      $url = 'https://mospolytech.ru/';
                       print_r(get_headers($url));
                       ?>
                     </textarea>
