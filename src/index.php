@@ -16,8 +16,8 @@ include('./components/header.php');
     <div class='menu__wrapper container'>
         <h1 class='menu__title'>Список работа:</h1>
         <ul class='menu__list'>
-            <li class='menu__item'><a href='./index.php'>Все лабораторные</a></li>
-            <li class='menu__item'><a href='./lab1.php'>Лабораторная 1</a></li>
+            <li class='menu__item'><a href='index.php'>Все лабораторные</a></li>
+            <li class='menu__item'><a href='lab1.php'>Лабораторная 1</a></li>
             <li class='menu__item'><a href='lab2-1.php'>Лабораторная 2</a></li>
             <li class='menu__item'><a href='http://portfolio.std-2162.ist.mospolytech.ru/'>Самопрезентация</a></li>
         </ul>

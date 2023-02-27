@@ -10,7 +10,7 @@
     </head>
     <body>
         <?php
-        include ('./components/header.php');
+        include('./components/header.php');
         ?>
         <section class="news">
             <h1 class='header__title'>Лабораторная работа 1 - Никоноров Даниил 221-322</h1>
@@ -29,7 +29,7 @@
                 ?>
         </section>
         <?php
-        include ('./components/footer.php');
+        include('./components/footer.php');
         ?>
     </body>
 </html>

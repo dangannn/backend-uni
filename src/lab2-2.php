@@ -10,7 +10,7 @@
 </head>
     <body>
         <?php
-        include ('./components/header.php');
+        include('./components/header.php');
         ?>
         <section class='lab2__get-headers get-headers'>
             <h1 class='header__title'>Лабораторная работа 2 - Никоноров Даниил 221-322</h1>
@@ -28,7 +28,7 @@
             </div>
         </section>
         <?php
-        include ('./components/footer.php');
+        include('./components/footer.php');
         ?>
     </body>
 </html>

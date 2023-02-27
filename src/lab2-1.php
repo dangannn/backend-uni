@@ -59,7 +59,7 @@ include('./components/header.php');
                 </div>
             </div>
         </form>
-        <a class="btn switch__btn" href="./lab2-2.php">next page</a>
+        <a class="btn switch__btn" href="lab2-2.php">next page</a>
     </div>
 </section>
 <?php
