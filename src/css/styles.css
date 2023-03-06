@@ -461,6 +461,22 @@ h1 {
     color: #8c8c8c;
 }
 
+.answer {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.answer--r {
+    color: green;
+}
+
+.answer--w {
+    color: red;
+}
+
 .btns__wrapper {
     width: 100%;
     display: flex;

@@ -8,6 +8,7 @@
                     <li><a href='lab1.php'>Лабораторная 1</a></li>
                     <li><a href='lab2-1.php'>Лабораторная 2</a></li>
                     <li><a href='http://portfolio.std-2162.ist.mospolytech.ru/'>Самопрезентация</a></li>
+                    <li><a href='lab3'>Лабораторная 3</a></li>
                 </ul>
             </div>
         </header>";
