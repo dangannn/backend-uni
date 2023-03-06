@@ -14,6 +14,7 @@ include('./components/header.php');
 ?>
 <form action="lab3.php" class="form">
     <div class="form__wrapper">
+        <a class='btn' href="./img/scheme.svg">Block scheme</a>
         <label for='equation' class="form__item">
             <span class="form__text">Enter equation:</span>
             <input class="form__input" name='equation' type='text' placeholder="123+x=127">
